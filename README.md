@@ -10,3 +10,6 @@ More about thic project on forum --> https://www.pedelecforum.de/forum/index.php
 
 ## Firmware
 https://github.com/void-spark/ion1
+
+## Any question about this project?
+Go to the forum :) 
