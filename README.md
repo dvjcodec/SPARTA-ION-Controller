@@ -7,3 +7,6 @@ More about thic project on forum --> https://www.pedelecforum.de/forum/index.php
 * use two 20A relays, SRA-5VDC-CL
 * ESP32-WROOM as a JLCPCB part - no need to buy and solder separately
 * use external USB-UART converter to program ESP32
+
+## Firmware
+https://github.com/void-spark/ion1
