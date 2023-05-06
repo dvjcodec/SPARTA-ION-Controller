@@ -5,3 +5,5 @@ More about thic project on forum --> https://www.pedelecforum.de/forum/index.php
 ## Parts
 * use two DC-DC MP4560 bucks to convert Battery voltage to 5V and 6V
 * use two 20A relays, SRA-5VDC-CL
+* ESP32-WROOM as a JLCPCB part - no need to buy and solder separately
+* use external USB-UART converter to program ESP32
