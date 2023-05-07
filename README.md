@@ -12,6 +12,8 @@ More about thic project on forum --> https://www.pedelecforum.de/forum/index.php
 * designed for ESP32 WROOM DEVKIT1 board
 * only one MP4560 DC-DC converter needed
 
+![Board](ION.png?raw=true "Board")
+
 ## Firmware
 https://github.com/void-spark/ion1
 
